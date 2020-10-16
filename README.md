@@ -2,6 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricard&layout=compact&theme=tokyonight)
 
+You can find me on [![LinkedIn][2.2]][2].
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/ricardcastello/
+
 <!--
 **Ricard/Ricard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
